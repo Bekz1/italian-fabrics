@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Dictionary } from "@/i18n/get-dictionary";
+import { SocialLinks } from "./SocialLinks";
 
 type Props = { dict: Dictionary };
 
@@ -9,7 +10,7 @@ export function Footer({ dict }: Props) {
       <div className="mx-auto flex max-w-7xl flex-col items-center gap-6 px-6 md:px-12">
         <Image
           src="/logo.png"
-          alt="ItalianFabrics.uz"
+          alt={dict.seo.logoAlt}
           width={64}
           height={64}
           className="rounded-full opacity-80"
@@ -20,7 +21,10 @@ export function Footer({ dict }: Props) {
         <p className="font-sans text-xs uppercase tracking-[0.2em] text-cream/40">
           {dict.footer.tagline}
         </p>
-        <div className="w-32 italian-flag rounded-full" />
+
+        <SocialLinks dict={dict} variant="dark" />
+
+        <div className="w-32 italian-flag rounded-full" aria-hidden="true" />
         <p className="font-sans text-xs uppercase tracking-[0.2em] text-gold/60">
           {dict.footer.madeInItaly}
         </p>

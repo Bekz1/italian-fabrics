@@ -4,6 +4,14 @@ export type Dictionary = {
   meta: {
     title: string;
     description: string;
+    ogTitle: string;
+    ogDescription: string;
+  };
+  seo: {
+    h1: string;
+    logoAlt: string;
+    organizationDescription: string;
+    knowsAbout: string[];
   };
   nav: {
     about: string;
@@ -39,6 +47,7 @@ export type Dictionary = {
     title: string;
     p1: string;
     p2: string;
+    pointsHeading: string;
     points: string[];
   };
   audience: {
@@ -65,6 +74,11 @@ export type Dictionary = {
     location: string;
     phone: string;
     email: string;
+    followUs: string;
+    socialTelegram: string;
+    socialInstagram: string;
+    socialThreads: string;
+    socialYoutube: string;
   };
   footer: {
     tagline: string;

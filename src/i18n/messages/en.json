@@ -1,7 +1,22 @@
 {
   "meta": {
-    "title": "ItalianFabrics.uz — Premium Italian Textiles",
-    "description": "Premium Italian fabrics imported and distributed in Uzbekistan. Luxury, quality, heritage."
+    "title": "Italian Fabrics Uzbekistan | Premium Textiles Tashkent",
+    "description": "Buy premium Italian fabrics in Tashkent & across Uzbekistan. Authentic imported Italian silk, wool & luxury textiles for tailors, designers, ateliers & fashion brands.",
+    "ogTitle": "Italian Fabrics in Tashkent — Premium Italian Textiles",
+    "ogDescription": "Import & supply of authentic premium Italian fabrics in Uzbekistan. For tailors, bespoke ateliers, fashion designers & interior professionals."
+  },
+  "seo": {
+    "h1": "Premium Italian Fabrics in Tashkent, Uzbekistan",
+    "logoAlt": "ItalianFabrics.uz — premium Italian fabric supplier in Tashkent",
+    "organizationDescription": "ItalianFabrics.uz imports and distributes premium Italian textiles across Uzbekistan — serving tailors, fashion designers, ateliers and businesses in Tashkent and nationwide.",
+    "knowsAbout": [
+      "Italian fabrics",
+      "premium textiles",
+      "Italian silk",
+      "Italian wool",
+      "fabric import Uzbekistan",
+      "tailoring fabrics Tashkent"
+    ]
   },
   "nav": {
     "about": "About",
@@ -10,33 +25,33 @@
   },
   "hero": {
     "tagline": "Premium Italian Textiles",
-    "subtitle": "We import and distribute authentic premium Italian fabrics to Uzbekistan — sourced from renowned mills with centuries of tradition.",
+    "subtitle": "Your trusted Italian fabric supplier in Tashkent — we import and distribute authentic premium Italian textiles across Uzbekistan, sourced from renowned mills with many centuries of tradition.",
     "cta": "Contact Us",
     "ctaSecondary": "Learn More"
   },
   "about": {
     "label": "Who We Are",
-    "title": "Italian Textiles, Here in Uzbekistan",
-    "p1": "ItalianFabrics.uz brings premium Italian textiles to designers, tailors, and businesses across Uzbekistan.",
-    "p2": "We work with established Italian manufacturers — many with histories spanning centuries — to offer fabrics that carry the quality and craftsmanship Italy is known for.",
-    "p3": "Whether you're working on fashion, tailoring, or interior projects, we're here to connect you with genuine Italian materials."
+    "title": "Italian Fabric Supplier in Tashkent, Uzbekistan",
+    "p1": "ItalianFabrics.uz is a dedicated importer and distributor of premium Italian fabrics in Uzbekistan — bringing authentic Italian silk, wool, cotton and luxury textiles to tailors, fashion designers, ateliers and businesses in Tashkent and across the country.",
+    "p2": "We work directly with established Italian textile manufacturers — many with histories spanning many centuries — so every fabric carries the quality, finish and craftsmanship that Italian mills are famous for worldwide.",
+    "p3": "Whether you need suit fabric for bespoke tailoring, silk for evening wear, or premium textiles for fashion collections and interior projects — we connect Uzbekistan's creative professionals with genuine Made in Italy materials."
   },
   "services": {
     "label": "What We Do",
-    "title": "From Italy to Uzbekistan",
-    "subtitle": "We handle sourcing and distribution so you can focus on your craft.",
+    "title": "Italian Fabric Import & Supply in Uzbekistan",
+    "subtitle": "From Italian mills to your workshop in Tashkent — we handle sourcing, import and local delivery.",
     "items": [
       {
-        "title": "Italian Sourcing",
-        "description": "We partner with textile manufacturers across Italy, selecting premium fabrics from factories with long-standing reputations for quality."
+        "title": "Direct Italian Sourcing",
+        "description": "We source premium Italian fabrics directly from textile manufacturers across Italy — selecting materials from factories with long-standing reputations for quality and heritage."
       },
       {
-        "title": "Premium Textiles",
-        "description": "Our focus is on high-end fabrics — the kind used in fine tailoring, fashion, and luxury interiors."
+        "title": "Premium Textile Range",
+        "description": "Our focus is high-end Italian textiles — Italian wool for suiting, silk and satin for fashion, cotton and linen for shirting, and luxury blends for couture and interiors."
       },
       {
-        "title": "Local Distribution",
-        "description": "Based in Uzbekistan, we make it easier for local professionals to access authentic Italian materials."
+        "title": "Nationwide Distribution",
+        "description": "Based in Tashkent, we supply Italian fabrics to professionals across Uzbekistan — making it easy to buy authentic Italian textiles without importing yourself."
       }
     ]
   },
@@ -46,112 +61,122 @@
     "items": [
       {
         "title": "Luxury",
-        "description": "We focus on premium-grade fabrics — the standard Italy's textile industry is built on."
+        "description": "We focus on premium-grade Italian fabrics — the same standard trusted by luxury fashion houses and master tailors around the world."
       },
       {
         "title": "Quality",
-        "description": "Every fabric we bring in is selected for its craftsmanship, durability, and finish."
+        "description": "Every Italian fabric we import is selected for superior craftsmanship, durability, drape and finish — from the mill in Italy to delivery in Uzbekistan."
       },
       {
         "title": "Heritage",
-        "description": "Italy's textile tradition goes back centuries. We carry that legacy into a new market."
+        "description": "Italy's textile tradition spans many centuries. We bring that authentic heritage to Uzbekistan's growing fashion, tailoring and design community."
       }
     ]
   },
   "whyItaly": {
-    "label": "Why Italy",
-    "title": "The Home of Premium Textiles",
-    "p1": "Italy has been at the heart of global textile production for centuries. From the silk traditions of the north to the wool mills of Piedmont, Italian fabrics are trusted by tailors and fashion houses worldwide.",
-    "p2": "What sets Italian textiles apart is a deep respect for craft — combining time-honored techniques with modern quality standards. That is the standard we bring to Uzbekistan.",
+    "label": "Why Italian Fabrics",
+    "title": "Why Choose Italian Textiles",
+    "p1": "Italy is the global benchmark for premium textiles. Italian wool, silk and luxury fabrics are the first choice for bespoke tailors, haute couture houses and interior designers worldwide — valued for their superior drape, finish and durability.",
+    "p2": "Italian mills combine many centuries of craft with modern quality control. That is exactly the standard ItalianFabrics.uz brings to Tashkent and across Uzbekistan — authentic Italian fabric, locally accessible.",
+    "pointsHeading": "Key advantages of Italian textiles",
     "points": [
-      "Centuries-old textile traditions",
-      "World-renowned quality and finishing",
-      "Trusted by luxury fashion globally",
-      "Direct sourcing from Italian manufacturers"
+      "World-leading Italian wool, silk & luxury textiles",
+      "Many centuries of Italian textile craftsmanship",
+      "Trusted by tailors & fashion houses globally",
+      "Direct import from Italian manufacturers"
     ]
   },
   "audience": {
     "label": "Who We Serve",
-    "title": "Built for Creators & Professionals",
-    "subtitle": "If quality materials matter to your work, we're here to help.",
+    "title": "Italian Fabrics for Professionals in Uzbekistan",
+    "subtitle": "Premium Italian textiles for anyone who demands the best materials for their work.",
     "items": [
       {
-        "title": "Tailors & Ateliers",
-        "description": "Bespoke suit makers and custom tailors who need fabrics that drape, cut, and finish to the highest standard."
+        "title": "Tailors & Bespoke Ateliers",
+        "description": "Custom suit makers and bespoke tailors in Tashkent who need Italian wool, super 150s suiting fabric and materials that cut and finish to the highest standard."
       },
       {
-        "title": "Fashion Designers",
-        "description": "Designers and brands looking for premium Italian materials for collections, samples, and production."
+        "title": "Fashion Designers & Brands",
+        "description": "Fashion designers and clothing brands looking for premium Italian silk, satin, cotton and specialty fabrics for collections and production."
       },
       {
         "title": "Interior Designers",
-        "description": "Professionals sourcing luxury textiles for upholstery, drapery, and high-end interior projects."
+        "description": "Interior professionals sourcing luxury Italian textiles for upholstery, drapery, curtains and high-end residential and commercial projects."
       },
       {
-        "title": "Businesses & Retailers",
-        "description": "Shops and companies that want to offer their customers genuine Italian quality."
+        "title": "Fabric Shops & Businesses",
+        "description": "Textile retailers and businesses across Uzbekistan who want to offer their customers genuine premium Italian fabric."
       }
     ]
   },
   "process": {
     "label": "How It Works",
-    "title": "Simple & Straightforward",
-    "subtitle": "Getting started is easy — just reach out and we'll take it from there.",
+    "title": "How to Order Italian Fabrics",
+    "subtitle": "Getting premium Italian textiles in Uzbekistan is simple — reach out and we handle the rest.",
     "steps": [
       {
-        "title": "Get in Touch",
-        "description": "Send us a message about your project — what you're making, what kind of fabric you need, and any preferences you have."
+        "title": "Contact Us",
+        "description": "Tell us about your project — whether you need Italian suit fabric, silk, wool or specialty textiles — and share your preferences."
       },
       {
-        "title": "We Consult",
-        "description": "We'll discuss your requirements and recommend suitable options from our Italian suppliers."
+        "title": "Consultation",
+        "description": "We discuss your requirements and recommend suitable Italian fabrics from our supplier network based on your needs and budget."
       },
       {
-        "title": "We Source",
-        "description": "Once you're happy with the direction, we handle sourcing and importing the fabrics from Italy."
+        "title": "Import from Italy",
+        "description": "Once confirmed, we source and import your selected Italian fabrics directly from the manufacturer."
       },
       {
         "title": "Delivery in Uzbekistan",
-        "description": "Your materials arrive locally — ready for your workshop, atelier, or project."
+        "description": "Your Italian textiles arrive in Tashkent or anywhere in Uzbekistan — ready for your atelier, workshop or production."
       }
     ]
   },
   "faq": {
     "label": "FAQ",
-    "title": "Common Questions",
+    "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "What types of fabrics do you offer?",
-        "answer": "We focus on premium Italian textiles — including wools, silks, cottons, linens, and blends. Our range is growing. Contact us to find out what's currently available for your project."
+        "question": "Where can I buy Italian fabrics in Tashkent?",
+        "answer": "ItalianFabrics.uz supplies premium Italian fabrics in Tashkent and across Uzbekistan. Contact us by phone or email to discuss what's available and arrange a meeting or delivery."
       },
       {
-        "question": "Are all fabrics genuinely from Italy?",
-        "answer": "Yes. Everything we supply is sourced directly from Italian manufacturers. Authenticity is at the core of what we do."
+        "question": "What types of Italian fabrics do you offer?",
+        "answer": "We import premium Italian textiles including wool suiting fabric, Italian silk, satin, cotton, linen and luxury blends. Our range is growing — contact us for current availability."
       },
       {
-        "question": "Can I request fabric samples?",
-        "answer": "Absolutely. If you're working on a specific project, get in touch and we'll discuss sample options with you."
+        "question": "Are all fabrics genuinely made in Italy?",
+        "answer": "Yes. Every fabric we supply is sourced directly from Italian textile manufacturers. Authentic Made in Italy quality is at the core of what we do."
       },
       {
-        "question": "Do you deliver across Uzbekistan?",
-        "answer": "Yes. We work with clients throughout Uzbekistan and can arrange delivery based on your location and order."
+        "question": "Can I order Italian fabric samples?",
+        "answer": "Yes. If you're working on a tailoring, fashion or interior project, get in touch and we'll arrange fabric samples for you to evaluate before ordering."
       },
       {
-        "question": "Do you have a physical showroom?",
-        "answer": "We're based in Tashkent and happy to meet by appointment. Send us an email to arrange a visit or discuss your needs."
+        "question": "Do you deliver Italian fabrics across Uzbekistan?",
+        "answer": "Yes. We serve clients in Tashkent and throughout Uzbekistan — Samarkand, Bukhara, Andijan and other cities. Delivery is arranged based on your location and order."
+      },
+      {
+        "question": "Do you have a fabric showroom in Tashkent?",
+        "answer": "We are based in Tashkent and welcome meetings by appointment. Contact us to visit, see available Italian fabrics, or discuss your project in person."
       }
     ]
   },
   "contact": {
     "label": "Get in Touch",
-    "title": "We'd Love to Hear From You",
-    "subtitle": "Interested in Italian fabrics for your project? Reach out and we'll be happy to discuss how we can help.",
+    "title": "Order Premium Italian Fabrics in Uzbekistan",
+    "subtitle": "Looking for Italian fabrics in Tashkent or anywhere in Uzbekistan? Call, email, or message us on Telegram — we'll help you find the right premium Italian textiles for your project.",
     "location": "Tashkent, Uzbekistan",
     "phone": "+998 90 800 88 88",
-    "email": "bekzododilv@gmail.com"
+    "email": "bekzododilv@gmail.com",
+    "followUs": "Follow us",
+    "socialTelegram": "Message us on Telegram",
+    "socialInstagram": "Follow us on Instagram",
+    "socialThreads": "Follow us on Threads",
+    "socialYoutube": "Subscribe on YouTube"
   },
   "footer": {
-    "tagline": "Premium Italian Textiles",
+    "tagline": "Premium Italian Textiles — Tashkent, Uzbekistan",
     "rights": "All rights reserved.",
     "madeInItaly": "Made in Italy"
   }

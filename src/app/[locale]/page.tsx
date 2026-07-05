@@ -26,7 +26,7 @@ export default async function HomePage({ params }: Props) {
   return (
     <>
       <Header locale={locale as Locale} dict={dict} />
-      <main>
+      <main id="main-content">
         <Hero dict={dict} />
         <About dict={dict} />
         <WhyItaly dict={dict} />

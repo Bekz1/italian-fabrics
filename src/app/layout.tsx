@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, Montserrat } from "next/font/google";
+import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
 const cormorant = Cormorant_Garamond({
@@ -17,8 +18,20 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "ItalianFabrics.uz",
-  description: "Premium Italian Textiles",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "ItalianFabrics.uz — Premium Italian Textiles",
+    template: "%s | ItalianFabrics.uz",
+  },
+  description:
+    "Premium Italian fabrics imported and distributed in Uzbekistan.",
+  icons: {
+    icon: [
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
+    ],
+    apple: [{ url: "/apple-icon.png", sizes: "180x180", type: "image/png" }],
+  },
 };
 
 export default function RootLayout({

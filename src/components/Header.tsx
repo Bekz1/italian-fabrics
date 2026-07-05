@@ -28,7 +28,7 @@ export function Header({ locale, dict }: Props) {
         <Link href={`/${locale}`} className="flex items-center gap-3">
           <Image
             src="/logo.png"
-            alt="ItalianFabrics.uz"
+            alt={dict.seo.logoAlt}
             width={48}
             height={48}
             className="rounded-full"
@@ -38,7 +38,7 @@ export function Header({ locale, dict }: Props) {
           </span>
         </Link>
 
-        <nav className="hidden items-center gap-8 md:flex">
+        <nav className="hidden items-center gap-8 md:flex" aria-label="Main navigation">
           {navLinks.map((link) => (
             <a
               key={link.href}
@@ -109,7 +109,7 @@ export function Header({ locale, dict }: Props) {
       </div>
 
       {menuOpen && (
-        <nav className="border-t border-gold/10 bg-cream px-6 py-4 md:hidden">
+        <nav className="border-t border-gold/10 bg-cream px-6 py-4 md:hidden" aria-label="Mobile navigation">
           {navLinks.map((link) => (
             <a
               key={link.href}

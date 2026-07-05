@@ -32,6 +32,12 @@
   .section-title {
     @apply font-serif text-3xl font-semibold leading-tight text-navy md:text-4xl lg:text-5xl;
   }
+
+  .sr-only {
+    @apply absolute h-px w-px overflow-hidden whitespace-nowrap border-0 p-0;
+    clip: rect(0, 0, 0, 0);
+    margin: -1px;
+  }
 }
 
 .italian-flag {
