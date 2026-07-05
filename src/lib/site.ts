@@ -1,4 +1,5 @@
-export const SITE_URL = "https://italianfabrics.uz";
+export const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") || "https://italianfabrics.uz";
 
 export const BUSINESS = {
   name: "ItalianFabrics.uz",
