@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-cream text-navy antialiased;
+  }
+
+  ::selection {
+    @apply bg-gold/30 text-navy;
+  }
+}
+
+@layer components {
+  .gold-border {
+    @apply border border-gold/30;
+  }
+
+  .section-padding {
+    @apply px-6 py-20 md:px-12 lg:px-24 lg:py-28;
+  }
+
+  .section-label {
+    @apply font-sans text-xs font-medium uppercase tracking-[0.25em] text-gold-dark;
+  }
+
+  .section-title {
+    @apply font-serif text-3xl font-semibold leading-tight text-navy md:text-4xl lg:text-5xl;
+  }
+}
+
+.italian-flag {
+  background: linear-gradient(
+    to right,
+    #009246 33.33%,
+    #ffffff 33.33%,
+    #ffffff 66.66%,
+    #ce2b37 66.66%
+  );
+  height: 3px;
+}

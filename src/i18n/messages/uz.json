@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "title": "ItalianFabrics.uz — Premium italiy matolari",
+    "description": "Premium italiy matolari — O'zbekistonda import va tarqatish. Hashamat, sifat, meros."
+  },
+  "nav": {
+    "about": "Biz haqimizda",
+    "services": "Nima qilamiz",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "tagline": "Premium italiy matolari",
+    "subtitle": "Biz asrlik an'analarga ega mashhur italiy fabrikalaridan haqiqiy premium matolarni O'zbekistonga olib kelamiz va tarqatamiz.",
+    "cta": "Bog'lanish",
+    "ctaSecondary": "Batafsil"
+  },
+  "about": {
+    "label": "Biz kim",
+    "title": "Italiy matolari — O'zbekistonda",
+    "p1": "ItalianFabrics.uz O'zbekiston bo'ylab dizaynerlar, tikuvchilar va korxonalar uchun premium italiy matolarini yetkazib beradi.",
+    "p2": "Biz Italiyaning obro'li ishlab chiqaruvchilari bilan ishlaymiz — ko'plari asrlar davomida faoliyat yuritadi — Italiya bilan bog'liq sifat va hunarmandchilikni ta'minlaydigan matolarni taklif qilamiz.",
+    "p3": "Moda, tikuvchilik yoki interyer loyihalari bo'lsin — haqiqiy italiy materiallarini topishingizga yordam beramiz."
+  },
+  "services": {
+    "label": "Nima qilamiz",
+    "title": "Italiyadan — O'zbekistonga",
+    "subtitle": "Ta'minot va tarqatishni o'z zimmasiga olamiz, siz esa o'z ishingizga e'tibor qaratishingiz mumkin.",
+    "items": [
+      {
+        "title": "Italiyadan ta'minot",
+        "description": "Italiya bo'ylab mato ishlab chiqaruvchilar bilan hamkorlik qilamiz, uzoq vaqt davomida sifat bilan tanilgan fabrikalardan premium matolarni tanlaymiz."
+      },
+      {
+        "title": "Premium matolar",
+        "description": "Biz yuqori darajadagi matolarga e'tibor qaratamiz — nozik tikuvchilik, moda va hashamatli interyerlar uchun."
+      },
+      {
+        "title": "Mahalliy tarqatish",
+        "description": "O'zbekistonda joylashgan holda, mahalliy mutaxassislarga haqiqiy italiy materiallariga osonroq kirish imkonini yaratamiz."
+      }
+    ]
+  },
+  "values": {
+    "label": "Bizning va'damiz",
+    "title": "Hashamat · Sifat · Meros",
+    "items": [
+      {
+        "title": "Hashamat",
+        "description": "Biz premium darajadagi matolarga e'tibor qaratamiz — Italiya mato sanoati shu asosda qurilgan."
+      },
+      {
+        "title": "Sifat",
+        "description": "Har bir mato hunarmandchilik, mustahkamlik va pardozlash uchun tanlanadi."
+      },
+      {
+        "title": "Meros",
+        "description": "Italiy mato an'anasi asrlarga borib taqaladi. Biz bu merosni yangi bozorga olib kelamiz."
+      }
+    ]
+  },
+  "whyItaly": {
+    "label": "Nega Italiya",
+    "title": "Premium matolar vatani",
+    "p1": "Italiya asrlar davomida dunyo mato ishlab chiqarishining markazi bo'lgan. Shimoldagi ipak an'analaridan tortib, Piemont jun fabrikalarigacha — italiy matolariga butun dunyo tikuvchilari va moda uylari ishonadi.",
+    "p2": "Italiy matolarini hunarmandchilikka chuqur hurmat ajratadi — asrlik texnikalar va zamonaviy sifat standartlarining uyg'unligi. Aynan shu standartni biz O'zbekistonga olib kelamiz.",
+    "points": [
+      "Asrlik mato an'analari",
+      "Dunyo miqyosida tan olingan sifat va pardozlash",
+      "Hashamatli moda tomonidan ishonch",
+      "Italiy ishlab chiqaruvchilaridan to'g'ridan-to'g'ri ta'minot"
+    ]
+  },
+  "audience": {
+    "label": "Kimlar uchun",
+    "title": "Ijodkorlar va mutaxassislar uchun",
+    "subtitle": "Agar ishingizda sifatli materiallar muhim bo'lsa — biz yordam berishga tayyormiz.",
+    "items": [
+      {
+        "title": "Tikuvchilar va atelyeler",
+        "description": "Eng yuqori standartdagi matolarga muhtoj bo'lgan bespoke va individual tikuvchilar."
+      },
+      {
+        "title": "Moda dizaynerlari",
+        "description": "Kolleksiyalar, namunalar va ishlab chiqarish uchun premium italiy materiallarini qidirayotgan dizaynerlar va brendlar."
+      },
+      {
+        "title": "Interyer dizaynerlari",
+        "description": "Mebel qoplamasi, pardalar va hashamatli interyer loyihalari uchun matolar tanlayotgan mutaxassislar."
+      },
+      {
+        "title": "Korxonalar va do'konlar",
+        "description": "Mijozlariga haqiqiy italiy sifatini taklif qilmoqchi bo'lgan bizneslar."
+      }
+    ]
+  },
+  "process": {
+    "label": "Qanday ishlaydi",
+    "title": "Oddiy va tushunarli",
+    "subtitle": "Boshlash oson — bizga yozing, qolganini biz hal qilamiz.",
+    "steps": [
+      {
+        "title": "Bog'laning",
+        "description": "Loyihangiz haqida yozing — nima tikyapsiz, qanday mato kerak va qanday afzalliklaringiz bor."
+      },
+      {
+        "title": "Maslahat",
+        "description": "Talablaringizni muhokama qilamiz va italiy yetkazib beruvchilarimizdan mos variantlarni tavsiya qilamiz."
+      },
+      {
+        "title": "Ta'minot",
+        "description": "Yo'nalish sizga mos kelgach, Italiyadan matolarni xarid qilish va import qilishni o'z zimmasiga olamiz."
+      },
+      {
+        "title": "O'zbekistonda yetkazib berish",
+        "description": "Materiallar mahalliy yetkazib beriladi — ustaxonangiz, atelyengiz yoki loyihangiz uchun tayyor."
+      }
+    ]
+  },
+  "faq": {
+    "label": "Savollar",
+    "title": "Tez-tez beriladigan savollar",
+    "items": [
+      {
+        "question": "Qanday matolarni taklif qilasiz?",
+        "answer": "Biz premium italiy matolariga ixtisoslashganmiz — jun, ipak, paxta, zig'ir va aralashmalar. Assortimentimiz kengaymoqda. Loyihangiz uchun nima mavjudligini bilish uchun biz bilan bog'laning."
+      },
+      {
+        "question": "Barcha matolar haqiqatan Italiyadanmi?",
+        "answer": "Ha. Ta'minlayotgan hamma narsamiz to'g'ridan-to'g'ri italiy ishlab chiqaruvchilardan olinadi. Haqiqiylik — bizning asosiy tamoyilimiz."
+      },
+      {
+        "question": "Mato namunalari buyurtma qilish mumkinmi?",
+        "answer": "Albatta. Agar aniq loyihangiz bo'lsa, bizga yozing — namuna variantlarini muhokama qilamiz."
+      },
+      {
+        "question": "Butun O'zbekiston bo'ylab yetkazib berasizmi?",
+        "answer": "Ha. Butun mamlakat bo'ylab mijozlar bilan ishlaymiz va buyurtmangizga qarab yetkazib berishni tashkil qilamiz."
+      },
+      {
+        "question": "Jismoniy shourumingiz bormi?",
+        "answer": "Biz Toshkentda joylashganmiz va uchrashuvni oldindan kelishish orqali tashkil qilishdan xursandmiz. Tashrifni kelishish uchun bizga yozing."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Bog'laning",
+    "title": "Siz bilan bog'lanishdan xursand bo'lamiz",
+    "subtitle": "Loyihangiz uchun italiy matolari qiziqtiradimi? Bizga yozing — qanday yordam bera olishimizni muhokama qilamiz.",
+    "location": "Toshkent, O'zbekiston",
+    "phone": "+998 90 800 88 88",
+    "email": "bekzododilv@gmail.com"
+  },
+  "footer": {
+    "tagline": "Premium italiy matolari",
+    "rights": "Barcha huquqlar himoyalangan.",
+    "madeInItaly": "Italiyada ishlab chiqarilgan"
+  }
+}
