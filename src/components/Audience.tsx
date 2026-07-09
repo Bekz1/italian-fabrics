@@ -22,9 +22,16 @@ export function Audience({ dict }: Props) {
             <article
               key={item.title}
               aria-labelledby={`audience-${i}-heading`}
-              className="rounded-lg border border-gold/15 bg-cream/50 p-8 transition-colors hover:border-gold/30"
+              className="group relative overflow-hidden rounded-lg border border-gold/15 bg-cream/50 p-8 pl-10 transition-all duration-300 hover:-translate-y-1 hover:border-gold/30 hover:shadow-lg hover:shadow-gold/5"
             >
-              <h3 id={`audience-${i}-heading`} className="font-serif text-xl font-semibold text-navy">
+              <span
+                className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-gold/60 to-gold/10 transition-all duration-300 group-hover:w-1.5"
+                aria-hidden="true"
+              />
+              <span className="font-serif text-sm font-semibold text-gold-dark/70" aria-hidden="true">
+                {String(i + 1).padStart(2, "0")}
+              </span>
+              <h3 id={`audience-${i}-heading`} className="mt-2 font-serif text-xl font-semibold text-navy">
                 {item.title}
               </h3>
               <p className="mt-3 font-sans text-sm leading-relaxed text-navy/60">

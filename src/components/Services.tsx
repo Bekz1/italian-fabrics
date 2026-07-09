@@ -24,17 +24,23 @@ export function Services({ dict }: Props) {
             <article
               key={item.title}
               aria-labelledby={`service-${i}-heading`}
-              className="rounded-lg border border-gold/10 bg-white/5 p-8 backdrop-blur-sm"
+              className="group relative overflow-hidden rounded-lg border border-gold/10 bg-white/5 p-8 backdrop-blur-sm transition-all duration-300 hover:-translate-y-1 hover:border-gold/30 hover:bg-white/[0.07] hover:shadow-xl hover:shadow-black/20"
             >
               <span
-                className="flex h-10 w-10 items-center justify-center rounded-full border border-gold/30 font-serif text-sm font-semibold text-gold-light"
+                className="absolute right-6 top-6 font-serif text-5xl font-semibold text-gold/10 transition-colors duration-300 group-hover:text-gold/20"
+                aria-hidden="true"
+              >
+                {String(i + 1).padStart(2, "0")}
+              </span>
+              <span
+                className="flex h-11 w-11 items-center justify-center rounded-full border border-gold/30 font-serif text-sm font-semibold text-gold-light"
                 aria-hidden="true"
               >
                 {String(i + 1).padStart(2, "0")}
               </span>
               <h3
                 id={`service-${i}-heading`}
-                className="mt-4 font-serif text-xl font-semibold text-gold-light"
+                className="mt-5 font-serif text-xl font-semibold text-gold-light"
               >
                 {item.title}
               </h3>

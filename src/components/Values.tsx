@@ -5,7 +5,7 @@ type Props = { dict: Dictionary };
 
 export function Values({ dict }: Props) {
   return (
-    <section id="values" aria-labelledby="values-heading" className="section-padding bg-cream">
+    <section id="values" aria-labelledby="values-heading" className="section-padding bg-white">
       <div className="mx-auto max-w-7xl">
         <SectionHeader
           label={dict.values.label}
@@ -14,21 +14,26 @@ export function Values({ dict }: Props) {
           className="mb-16"
         />
 
-        <div className="grid gap-8 md:grid-cols-3">
+        <div className="grid gap-10 md:grid-cols-3">
           {dict.values.items.map((item, i) => (
-            <article key={item.title} aria-labelledby={`value-${i}-heading`} className="text-center">
-              <div
-                className="mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full border-2 border-gold/30 bg-gold/5"
-                aria-hidden="true"
-              >
-                <span className="font-serif text-2xl font-semibold text-gold-dark">
-                  {["L", "Q", "H"][i]}
+            <article
+              key={item.title}
+              aria-labelledby={`value-${i}-heading`}
+              className="group relative text-center"
+            >
+              <div className="relative mx-auto mb-7 h-20 w-20" aria-hidden="true">
+                <span className="absolute inset-0 rounded-full border border-gold/20 transition-transform duration-500 group-hover:rotate-45" />
+                <span className="absolute inset-2 flex items-center justify-center rounded-full border-2 border-gold/40 bg-gold/5">
+                  <span className="font-serif text-2xl font-semibold text-gold-dark">
+                    {["L", "Q", "H"][i]}
+                  </span>
                 </span>
               </div>
               <h3 id={`value-${i}-heading`} className="font-serif text-xl font-semibold text-navy">
                 {item.title}
               </h3>
-              <p className="mt-3 font-sans text-sm leading-relaxed text-navy/60">
+              <div className="mx-auto mt-3 h-px w-10 bg-gold/40" aria-hidden="true" />
+              <p className="mt-4 font-sans text-sm leading-relaxed text-navy/60">
                 {item.description}
               </p>
             </article>

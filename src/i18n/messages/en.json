@@ -29,6 +29,13 @@
     "cta": "Contact Us",
     "ctaSecondary": "Learn More"
   },
+  "partners": {
+    "label": "Our Partner Mills",
+    "title": "The Same Italian Factories Behind the World's Greatest Fashion Houses",
+    "subtitle": "We work directly with established Italian textile manufacturers — the same mills that produce fabrics for Gucci, Armani, Chanel, Dior and other leading luxury brands.",
+    "marqueeLabel": "Luxury fashion houses supplied by our partner mills",
+    "disclaimer": "Brand names are shown for reference only. ItalianFabrics.uz is not affiliated with or endorsed by these fashion houses."
+  },
   "about": {
     "label": "Who We Are",
     "title": "Italian Fabric Supplier in Tashkent, Uzbekistan",
@@ -166,7 +173,8 @@
     "label": "Get in Touch",
     "title": "Order Premium Italian Fabrics in Uzbekistan",
     "subtitle": "Looking for Italian fabrics in Tashkent or anywhere in Uzbekistan? Call, email, or message us on Telegram — we'll help you find the right premium Italian textiles for your project.",
-    "location": "Tashkent, Uzbekistan",
+    "location": "Toshkent, Shumanay 4-proyezd, 52-uy",
+    "viewMap": "View on Google Maps",
     "phone": "+998 90 800 88 88",
     "email": "bekzododilv@gmail.com",
     "followUs": "Follow us",
@@ -178,6 +186,10 @@
   "footer": {
     "tagline": "Premium Italian Textiles — Tashkent, Uzbekistan",
     "rights": "All rights reserved.",
-    "madeInItaly": "Made in Italy"
+    "madeInItaly": "Made in Italy",
+    "linksHeading": "Explore",
+    "contactHeading": "Contact",
+    "followHeading": "Follow",
+    "description": "Importer and distributor of authentic premium Italian fabrics — bringing the finest Made in Italy textiles to tailors, designers and ateliers across Uzbekistan."
   }
 }

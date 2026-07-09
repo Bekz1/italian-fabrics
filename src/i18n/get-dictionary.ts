@@ -24,6 +24,13 @@ export type Dictionary = {
     cta: string;
     ctaSecondary: string;
   };
+  partners: {
+    label: string;
+    title: string;
+    subtitle: string;
+    marqueeLabel: string;
+    disclaimer: string;
+  };
   about: {
     label: string;
     title: string;
@@ -72,6 +79,7 @@ export type Dictionary = {
     title: string;
     subtitle: string;
     location: string;
+    viewMap: string;
     phone: string;
     email: string;
     followUs: string;
@@ -84,6 +92,10 @@ export type Dictionary = {
     tagline: string;
     rights: string;
     madeInItaly: string;
+    linksHeading: string;
+    contactHeading: string;
+    followHeading: string;
+    description: string;
   };
 };
 

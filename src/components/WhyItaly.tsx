@@ -28,7 +28,7 @@ export function WhyItaly({ dict }: Props) {
               {dict.whyItaly.points.map((point) => (
                 <li
                   key={point}
-                  className="flex items-start gap-4 rounded-lg border border-gold/20 bg-cream p-5"
+                  className="flex items-start gap-4 rounded-lg border border-gold/20 bg-cream p-5 transition-all duration-300 hover:border-gold/40 hover:shadow-md hover:shadow-gold/5"
                 >
                   <span
                     className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-gold/20"

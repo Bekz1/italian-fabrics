@@ -1,20 +1,20 @@
 {
   "meta": {
-    "title": "Italiy matolari Toshkent | Premium matolar sotib olish",
-    "description": "Toshkent va butun O'zbekistonda premium italiy matolarini sotib oling. Italiy ipak, jun va hashamatli matolar — tikuvchilar, atelyeler, dizaynerlar va moda brendlari uchun. To'g'ridan-to'g'ri Italiyadan import.",
-    "ogTitle": "Toshkentda italiy matolari — premium italiy tekstil",
-    "ogDescription": "O'zbekistonda haqiqiy premium italiy matolarini import va yetkazib berish. Tikuvchilar, atelyeler, moda dizaynerlari va mutaxassislar uchun."
+    "title": "Italiya matolari Toshkent | Premium matolar sotib olish",
+    "description": "Toshkent va butun O'zbekistonda premium Italiya matolarini sotib oling. Italiya ipagi, juni va hashamatli matolar — tikuvchilar, atelyeler, dizaynerlar va moda brendlari uchun. To'g'ridan-to'g'ri Italiyadan import.",
+    "ogTitle": "Toshkentda Italiya matolari — premium Italiya tekstili",
+    "ogDescription": "O'zbekistonda haqiqiy premium Italiya matolarini import va yetkazib berish. Tikuvchilar, atelyeler, moda dizaynerlari va mutaxassislar uchun."
   },
   "seo": {
-    "h1": "Toshkent, O'zbekistonda premium italiy matolari",
-    "logoAlt": "ItalianFabrics.uz — Toshkentdagi italiy matolari yetkazib beruvchisi",
-    "organizationDescription": "ItalianFabrics.uz — O'zbekiston bo'ylab premium italiy matolarini import qiladi va tarqatadi. Toshkent va viloyatlardagi tikuvchilar, moda dizaynerlari, atelyeler va korxonalar bilan ishlaydi.",
+    "h1": "Toshkent, O'zbekistonda premium Italiya matolari",
+    "logoAlt": "ItalianFabrics.uz — Toshkentdagi Italiya matolari yetkazib beruvchisi",
+    "organizationDescription": "ItalianFabrics.uz — O'zbekiston bo'ylab premium Italiya matolarini import qiladi va tarqatadi. Toshkent va viloyatlardagi tikuvchilar, moda dizaynerlari, atelyeler va korxonalar bilan ishlaydi.",
     "knowsAbout": [
-      "italiy matolari",
-      "italiy matolari toshkent",
+      "Italiya matolari",
+      "Italiya matolari toshkent",
       "premium matolar",
-      "italiy ipak",
-      "italiy jun",
+      "Italiya ipagi",
+      "Italiya juni",
       "tikuvchilar uchun matolar"
     ]
   },
@@ -24,22 +24,29 @@
     "contact": "Aloqa"
   },
   "hero": {
-    "tagline": "Premium italiy matolari",
-    "subtitle": "Toshkentdagi ishonchli italiy matolari yetkazib beruvchisi — biz ko'p asrlik an'analarga ega mashhur italiy fabrikalaridan haqiqiy premium matolarni butun O'zbekiston bo'ylab import qilamiz va tarqatamiz.",
+    "tagline": "Premium Italiya matolari",
+    "subtitle": "Toshkentdagi ishonchli Italiya matolari yetkazib beruvchisi — biz ko'p asrlik an'analarga ega mashhur Italiya fabrikalaridan haqiqiy premium matolarni butun O'zbekiston bo'ylab import qilamiz va tarqatamiz.",
     "cta": "Bog'lanish",
     "ctaSecondary": "Batafsil"
   },
+  "partners": {
+    "label": "Hamkor fabrikalarimiz",
+    "title": "Dunyoning eng yirik moda uylari bilan ishlaydigan Italiya fabrikalari",
+    "subtitle": "Biz to'g'ridan-to'g'ri Italiyaning obro'li mato ishlab chiqaruvchilari bilan ishlaymiz — Gucci, Armani, Chanel, Dior va boshqa yetakchi hashamatli brendlar uchun mato ishlab chiqaradigan fabrikalar bilan.",
+    "marqueeLabel": "Hamkor fabrikalarimiz ishlab chiqaradigan hashamatli moda uylari",
+    "disclaimer": "Brend nomlari faqat ma'lumot uchun keltirilgan. ItalianFabrics.uz ushbu moda uylari bilan bog'liq emas va ularning tasdig'iga ega emas."
+  },
   "about": {
     "label": "Biz kim",
-    "title": "Toshkentdagi italiy matolari yetkazib beruvchisi",
-    "p1": "ItalianFabrics.uz — O'zbekistonda premium italiy matolarining ixtisoslashtirilgan importyori va tarqatuvchisi. Biz haqiqiy italiy ipak, jun, paxta va hashamatli matolarni Toshkent va butun mamlakat bo'ylab tikuvchilar, moda dizaynerlari, atelyeler va korxonalarga yetkazib beramiz.",
-    "p2": "Biz to'g'ridan-to'g'ri Italiyaning obro'li mato ishlab chiqaruvchilari bilan ishlaymiz — ko'plari bir necha asrlik tarixga ega — har bir mato butun dunyo bo'ylab italiy fabrikalari bilan mashhur sifat va hunarmandchilikni ta'minlaydi.",
+    "title": "Toshkentdagi Italiya matolari yetkazib beruvchisi",
+    "p1": "ItalianFabrics.uz — O'zbekistonda premium Italiya matolarining ixtisoslashtirilgan importyori va tarqatuvchisi. Biz haqiqiy Italiya ipagi, juni, paxta va hashamatli matolarni Toshkent va butun mamlakat bo'ylab tikuvchilar, moda dizaynerlari, atelyeler va korxonalarga yetkazib beramiz.",
+    "p2": "Biz to'g'ridan-to'g'ri Italiyaning obro'li mato ishlab chiqaruvchilari bilan ishlaymiz — ko'plari bir necha asrlik tarixga ega — har bir mato butun dunyo bo'ylab Italiya fabrikalari bilan mashhur sifat va hunarmandchilikni ta'minlaydi.",
     "p3": "Bespoke kostyum matosi, kechki libos uchun ipak yoki moda kolleksiyalari va interyer loyihalari uchun premium matolar kerak bo'lsin — biz O'zbekistonning ijodiy mutaxassislarini haqiqiy Made in Italy materiallari bilan bog'laymiz."
   },
   "services": {
     "label": "Nima qilamiz",
-    "title": "O'zbekistonda italiy matolarini import va yetkazib berish",
-    "subtitle": "Italiy fabrikalaridan Toshkentdagi ustaxonangizgacha — xarid, import va mahalliy yetkazib berishni biz hal qilamiz.",
+    "title": "O'zbekistonda Italiya matolarini import va yetkazib berish",
+    "subtitle": "Italiya fabrikalaridan Toshkentdagi ustaxonangizgacha — xarid, import va mahalliy yetkazib berishni biz hal qilamiz.",
     "items": [
       {
         "title": "To'g'ridan-to'g'ri Italiyadan ta'minot",
@@ -47,11 +54,11 @@
       },
       {
         "title": "Premium mato assortimenti",
-        "description": "Bizning ixtisoslashuvimiz — yuqori darajadagi italiy matolar: kostyumlar uchun jun, moda uchun ipak va atlas, ko'ylaklar uchun paxta va zig'ir, couture va interyerlar uchun hashamatli aralashmalar."
+        "description": "Bizning ixtisoslashuvimiz — yuqori darajadagi Italiya matolar: kostyumlar uchun jun, moda uchun ipak va atlas, ko'ylaklar uchun paxta va zig'ir, couture va interyerlar uchun hashamatli aralashmalar."
       },
       {
         "title": "Butun O'zbekiston bo'ylab yetkazib berish",
-        "description": "Toshkentda joylashgan holda, biz O'zbekiston bo'ylab mutaxassislarga italiy matolarini yetkazib beramiz — mustaqil import qilish shart emas."
+        "description": "Toshkentda joylashgan holda, biz O'zbekiston bo'ylab mutaxassislarga Italiya matolarini yetkazib beramiz — mustaqil import qilish shart emas."
       }
     ]
   },
@@ -61,74 +68,74 @@
     "items": [
       {
         "title": "Hashamat",
-        "description": "Biz premium darajadagi italiy matolariga e'tibor qaratamiz — butun dunyo bo'ylab hashamatli moda uylari va usta tikuvchilar ishonadigan standart."
+        "description": "Biz premium darajadagi Italiya matolariga e'tibor qaratamiz — butun dunyo bo'ylab hashamatli moda uylari va usta tikuvchilar ishonadigan standart."
       },
       {
         "title": "Sifat",
-        "description": "Har bir import qilingan italiy mato ustun hunarmandchilik, mustahkamlik, yig'ilish va pardozlash uchun tanlanadi — Italiyadagi fabrikadan O'zbekistondagi yetkazib berishgacha."
+        "description": "Har bir import qilingan Italiya mato ustun hunarmandchilik, mustahkamlik, yig'ilish va pardozlash uchun tanlanadi — Italiyadagi fabrikadan O'zbekistondagi yetkazib berishgacha."
       },
       {
         "title": "Meros",
-        "description": "Italiy mato an'anasi ko'p asrlarga borib taqaladi. Biz bu haqiqiy merosni O'zbekistonning rivojlanayotgan moda, tikuvchilik va dizayn hamjamiyatiga olib kelamiz."
+        "description": "Italiya mato an'anasi ko'p asrlarga borib taqaladi. Biz bu haqiqiy merosni O'zbekistonning rivojlanayotgan moda, tikuvchilik va dizayn hamjamiyatiga olib kelamiz."
       }
     ]
   },
   "whyItaly": {
-    "label": "Nega italiy matolari",
-    "title": "Nega italiy matolarini tanlashadi",
-    "p1": "Italiya premium matolar uchun dunyo etalonidir. Italiy jun, ipak va hashamatli matolar butun dunyo bo'ylab bespoke tikuvchilar, haute couture uylari va interyer dizaynerlarining birinchi tanlovidir.",
-    "p2": "Italiy fabrikalari ko'p asrlik hunarmandchilikni zamonaviy sifat nazorati bilan birlashtiradi. Aynan shu standartni ItalianFabrics.uz Toshkent va butun O'zbekiston bo'ylab olib keladi — mahalliy ravishda mavjud bo'lgan haqiqiy italiy matolari.",
-    "pointsHeading": "Italiy matolarining asosiy afzalliklari",
+    "label": "Nega Italiya matolari",
+    "title": "Nega Italiya matolarini tanlashadi",
+    "p1": "Italiya premium matolar uchun dunyo etalonidir. Italiya juni, ipagi va hashamatli matolar butun dunyo bo'ylab bespoke tikuvchilar, haute couture uylari va interyer dizaynerlarining birinchi tanlovidir.",
+    "p2": "Italiya fabrikalari ko'p asrlik hunarmandchilikni zamonaviy sifat nazorati bilan birlashtiradi. Aynan shu standartni ItalianFabrics.uz Toshkent va butun O'zbekiston bo'ylab olib keladi — mahalliy ravishda mavjud bo'lgan haqiqiy Italiya matolari.",
+    "pointsHeading": "Italiya matolarining asosiy afzalliklari",
     "points": [
-      "Dunyodagi eng yaxshi italiy jun, ipak va hashamatli matolar",
-      "Ko'p asrlik italiy mato hunarmandchiligi",
+      "Dunyodagi eng yaxshi Italiya juni, ipak va hashamatli matolar",
+      "Ko'p asrlik Italiya mato hunarmandchiligi",
       "Butun dunyo tikuvchilari va moda uylari ishonchi",
-      "Italiy ishlab chiqaruvchilaridan to'g'ridan-to'g'ri import"
+      "Italiya ishlab chiqaruvchilaridan to'g'ridan-to'g'ri import"
     ]
   },
   "audience": {
     "label": "Kimlar uchun",
-    "title": "O'zbekiston mutaxassislari uchun italiy matolari",
-    "subtitle": "Ishida eng yaxshi materiallarni talab qiladigan har bir kishi uchun premium italiy matolari.",
+    "title": "O'zbekiston mutaxassislari uchun Italiya matolari",
+    "subtitle": "Ishida eng yaxshi materiallarni talab qiladigan har bir kishi uchun premium Italiya matolari.",
     "items": [
       {
         "title": "Tikuvchilar va atelyeler",
-        "description": "Toshkentdagi bespoke va individual tikuvchilar — italiy jun, super 150s kostyum matosi va eng yuqori standartdagi materiallarga muhtoj bo'lganlar."
+        "description": "Toshkentdagi bespoke va individual tikuvchilar — Italiya juni, super 150s kostyum matosi va eng yuqori standartdagi materiallarga muhtoj bo'lganlar."
       },
       {
         "title": "Moda dizaynerlari va brendlar",
-        "description": "Kolleksiyalar va ishlab chiqarish uchun premium italiy ipak, atlas, paxta va maxsus matolarni qidirayotgan moda dizaynerlari va kiyim brendlari."
+        "description": "Kolleksiyalar va ishlab chiqarish uchun premium Italiya ipagi, atlas, paxta va maxsus matolarni qidirayotgan moda dizaynerlari va kiyim brendlari."
       },
       {
         "title": "Interyer dizaynerlari",
-        "description": "Mebel qoplamasi, pardalar, dekor va elita turar-joy hamda tijorat loyihalari uchun hashamatli italiy matolarini tanlayotgan interyer mutaxassislari."
+        "description": "Mebel qoplamasi, pardalar, dekor va elita turar-joy hamda tijorat loyihalari uchun hashamatli Italiya matolarini tanlayotgan interyer mutaxassislari."
       },
       {
         "title": "Mato do'konlari va korxonalar",
-        "description": "Butun O'zbekiston bo'ylab mijozlariga haqiqiy premium italiy matolarini taklif qilmoqchi bo'lgan mato do'konlari va korxonalar."
+        "description": "Butun O'zbekiston bo'ylab mijozlariga haqiqiy premium Italiya matolarini taklif qilmoqchi bo'lgan mato do'konlari va korxonalar."
       }
     ]
   },
   "process": {
     "label": "Qanday ishlaydi",
-    "title": "Italiy matolarini qanday buyurtma qilish",
-    "subtitle": "O'zbekistonda premium italiy matolarini olish oson — biz bilan bog'laning, qolganini biz hal qilamiz.",
+    "title": "Italiya matolarini qanday buyurtma qilish",
+    "subtitle": "O'zbekistonda premium Italiya matolarini olish oson — biz bilan bog'laning, qolganini biz hal qilamiz.",
     "steps": [
       {
         "title": "Bog'laning",
-        "description": "Loyihangiz haqida ayting — italiy kostyum matosi, ipak, jun yoki maxsus matolar kerakmi — va afzalliklaringizni ulashing."
+        "description": "Loyihangiz haqida ayting — Italiya kostyum matosi, ipak, jun yoki maxsus matolar kerakmi — va afzalliklaringizni ulashing."
       },
       {
         "title": "Maslahat",
-        "description": "Talablaringizni muhokama qilamiz va ehtiyojlar hamda byudjetingizga mos italiy matolarini tavsiya qilamiz."
+        "description": "Talablaringizni muhokama qilamiz va ehtiyojlar hamda byudjetingizga mos Italiya matolarini tavsiya qilamiz."
       },
       {
         "title": "Italiyadan import",
-        "description": "Kelishilgach, tanlangan italiy matolarini to'g'ridan-to'g'ri ishlab chiqaruvchidan xarid qilamiz va import qilamiz."
+        "description": "Kelishilgach, tanlangan Italiya matolarini to'g'ridan-to'g'ri ishlab chiqaruvchidan xarid qilamiz va import qilamiz."
       },
       {
         "title": "O'zbekistonda yetkazib berish",
-        "description": "Italiy matolaringiz Toshkent yoki O'zbekistonning istalgan shahriga yetkaziladi — atelye, ustaxona yoki ishlab chiqarish uchun tayyor."
+        "description": "Italiya matolaringiz Toshkent yoki O'zbekistonning istalgan shahriga yetkaziladi — atelye, ustaxona yoki ishlab chiqarish uchun tayyor."
       }
     ]
   },
@@ -137,36 +144,37 @@
     "title": "Tez-tez beriladigan savollar",
     "items": [
       {
-        "question": "Toshkentda italiy matolarini qayerdan sotib olish mumkin?",
-        "answer": "ItalianFabrics.uz Toshkent va butun O'zbekistonda premium italiy matolarini yetkazib beradi. Assortiment va uchrashuv yoki yetkazib berishni kelishish uchun telefon yoki email orqali bog'laning."
+        "question": "Toshkentda Italiya matolarini qayerdan sotib olish mumkin?",
+        "answer": "ItalianFabrics.uz Toshkent va butun O'zbekistonda premium Italiya matolarini yetkazib beradi. Assortiment va uchrashuv yoki yetkazib berishni kelishish uchun telefon yoki email orqali bog'laning."
       },
       {
-        "question": "Qanday italiy matolarni taklif qilasiz?",
-        "answer": "Biz premium italiy matolarni import qilamiz: kostyum jungi, italiy ipak, atlas, paxta, zig'ir va hashamatli aralashmalar. Assortiment kengaymoqda — joriy mavjudlik uchun biz bilan bog'laning."
+        "question": "Qanday Italiya matolarni taklif qilasiz?",
+        "answer": "Biz premium Italiya matolarni import qilamiz: kostyum jungi, Italiya ipagi, atlas, paxta, zig'ir va hashamatli aralashmalar. Assortiment kengaymoqda — joriy mavjudlik uchun biz bilan bog'laning."
       },
       {
         "question": "Barcha matolar haqiqatan Italiyada ishlab chiqarilganmi?",
-        "answer": "Ha. Ta'minlayotgan hamma narsamiz to'g'ridan-to'g'ri italiy mato ishlab chiqaruvchilaridan olinadi. Haqiqiy Made in Italy sifati — bizning asosiy tamoyilimiz."
+        "answer": "Ha. Ta'minlayotgan hamma narsamiz to'g'ridan-to'g'ri Italiya mato ishlab chiqaruvchilaridan olinadi. Haqiqiy Made in Italy sifati — bizning asosiy tamoyilimiz."
       },
       {
-        "question": "Italiy mato namunalarini buyurtma qilish mumkinmi?",
+        "question": "Italiya mato namunalarini buyurtma qilish mumkinmi?",
         "answer": "Ha. Tikuvchilik, moda yoki interyer loyihasi ustida ishlasangiz, biz bilan bog'laning — buyurtma berishdan oldin baholash uchun namunalar tashkil qilamiz."
       },
       {
-        "question": "Italiy matolarini butun O'zbekiston bo'ylab yetkazib berasizmi?",
+        "question": "Italiya matolarini butun O'zbekiston bo'ylab yetkazib berasizmi?",
         "answer": "Ha. Toshkent, Samarqand, Buxoro, Andijon va boshqa shaharlar bo'ylab mijozlar bilan ishlaymiz. Yetkazib berish buyurtmangizga qarab tashkil qilinadi."
       },
       {
         "question": "Toshkentda mato shourumingiz bormi?",
-        "answer": "Biz Toshkentda joylashganmiz va oldindan kelishilgan uchrashuvlarni qabul qilamiz. Mavjud italiy matolarini ko'rish yoki loyihani shaxsan muhokama qilish uchun biz bilan bog'laning."
+        "answer": "Biz Toshkentda joylashganmiz va oldindan kelishilgan uchrashuvlarni qabul qilamiz. Mavjud Italiya matolarini ko'rish yoki loyihani shaxsan muhokama qilish uchun biz bilan bog'laning."
       }
     ]
   },
   "contact": {
     "label": "Bog'laning",
-    "title": "O'zbekistonda premium italiy matolarini buyurtma qiling",
-    "subtitle": "Toshkent yoki O'zbekistonning istalgan shahrida italiy matolari qidiryapsizmi? Qo'ng'iroq qiling, email yozing yoki Telegram orqali bog'laning — loyihangiz uchun mos premium italiy matolarini topishga yordam beramiz.",
-    "location": "Toshkent, O'zbekiston",
+    "title": "O'zbekistonda premium Italiya matolarini buyurtma qiling",
+    "subtitle": "Toshkent yoki O'zbekistonning istalgan shahrida Italiya matolari qidiryapsizmi? Qo'ng'iroq qiling, email yozing yoki Telegram orqali bog'laning — loyihangiz uchun mos premium Italiya matolarini topishga yordam beramiz.",
+    "location": "Toshkent, Shumanay 4-proyezd, 52-uy",
+    "viewMap": "Google Mapsda ko'rish",
     "phone": "+998 90 800 88 88",
     "email": "bekzododilv@gmail.com",
     "followUs": "Ijtimoiy tarmoqlar",
@@ -176,8 +184,12 @@
     "socialYoutube": "YouTube kanalimiz"
   },
   "footer": {
-    "tagline": "Premium italiy matolari — Toshkent, O'zbekiston",
+    "tagline": "Premium Italiya matolari — Toshkent, O'zbekiston",
     "rights": "Barcha huquqlar himoyalangan.",
-    "madeInItaly": "Italiyada ishlab chiqarilgan"
+    "madeInItaly": "Italiyada ishlab chiqarilgan",
+    "linksHeading": "Bo'limlar",
+    "contactHeading": "Aloqa",
+    "followHeading": "Ijtimoiy tarmoqlar",
+    "description": "Haqiqiy premium Italiya matolarining importyori va yetkazib beruvchisi — O'zbekiston bo'ylab tikuvchilar, dizaynerlar va atelyelar uchun eng sara Made in Italy matolarini olib kelamiz."
   }
 }

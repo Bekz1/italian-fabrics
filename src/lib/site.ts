@@ -7,9 +7,14 @@ export const BUSINESS = {
   phone: "+998908008888",
   phoneDisplay: "+998 90 800 88 88",
   address: {
+    street: "Shumanay 4-proyezd, 52-uy",
     locality: "Tashkent",
     country: "Uzbekistan",
   },
+  mapUrl: "https://maps.app.goo.gl/AySao7gLZnNXzmmb9",
+  geo: { lat: 41.3312037, lng: 69.1983286 },
+  mapEmbedUrl:
+    "https://www.google.com/maps?q=41.3312037,69.1983286&z=16&hl=en&output=embed",
 } as const;
 
 export const SOCIAL = {

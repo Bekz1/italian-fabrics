@@ -50,3 +50,37 @@
   );
   height: 3px;
 }
+
+@keyframes partners-marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.partners-marquee {
+  animation: partners-marquee 60s linear infinite;
+}
+
+.brand-marquee-logo {
+  width: auto;
+  opacity: 0.5;
+  filter: brightness(0) invert(1);
+  transition: opacity 0.3s ease;
+}
+
+.brand-marquee-logo:hover {
+  opacity: 0.85;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .partners-marquee {
+    animation: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    gap: 2.5rem;
+  }
+}

@@ -22,10 +22,10 @@ export function Process({ dict }: Props) {
             <li key={step.title}>
               <article
                 aria-labelledby={`process-${i}-heading`}
-                className="h-full rounded-lg border border-gold/20 bg-white p-6"
+                className="group h-full rounded-lg border border-gold/20 bg-white p-6 transition-all duration-300 hover:-translate-y-1 hover:border-gold/40 hover:shadow-lg hover:shadow-gold/5"
               >
                 <span
-                  className="flex h-10 w-10 items-center justify-center rounded-full border border-gold/30 bg-gold/5 font-serif text-sm font-semibold text-gold-dark"
+                  className="flex h-12 w-12 items-center justify-center rounded-full border border-gold/30 bg-gold/5 font-serif text-base font-semibold text-gold-dark transition-colors duration-300 group-hover:bg-gold group-hover:text-white"
                   aria-hidden="true"
                 >
                   {String(i + 1).padStart(2, "0")}

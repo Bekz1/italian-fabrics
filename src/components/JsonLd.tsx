@@ -40,9 +40,11 @@ export function JsonLd({ locale, dict }: Props) {
         priceRange: "$$$",
         address: {
           "@type": "PostalAddress",
+          streetAddress: BUSINESS.address.street,
           addressLocality: BUSINESS.address.locality,
           addressCountry: "UZ",
         },
+        hasMap: BUSINESS.mapUrl,
         areaServed: [
           { "@type": "City", name: "Tashkent" },
           { "@type": "Country", name: "Uzbekistan" },
