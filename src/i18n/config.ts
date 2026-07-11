@@ -1,11 +1,11 @@
-export const locales = ["en", "ru", "uz"] as const;
+export const locales = ["uz", "ru", "en"] as const;
 export type Locale = (typeof locales)[number];
-export const defaultLocale: Locale = "en";
+export const defaultLocale: Locale = "uz";
 
 export const localeNames: Record<Locale, string> = {
-  en: "English",
-  ru: "Русский",
   uz: "O'zbek",
+  ru: "Русский",
+  en: "English",
 };
 
 export function isValidLocale(locale: string): locale is Locale {

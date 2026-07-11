@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import type { Dictionary } from "@/i18n/get-dictionary";
 import type { Locale } from "@/i18n/config";
-import { locales } from "@/i18n/config";
+import { defaultLocale, locales } from "@/i18n/config";
 import { SITE_URL } from "./site";
 
 export function buildPageMetadata(locale: Locale, dict: Dictionary): Metadata {
@@ -11,7 +11,7 @@ export function buildPageMetadata(locale: Locale, dict: Dictionary): Metadata {
   for (const l of locales) {
     languages[l] = `${SITE_URL}/${l}`;
   }
-  languages["x-default"] = `${SITE_URL}/en`;
+  languages["x-default"] = `${SITE_URL}/${defaultLocale}`;
 
   return {
     title: {
